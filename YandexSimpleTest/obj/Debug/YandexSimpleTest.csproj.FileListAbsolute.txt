@@ -1,0 +1,13 @@
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\bin\Debug\YandexSimpleTest.dll
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\bin\Debug\YandexSimpleTest.pdb
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\obj\Debug\YandexSimpleTest.csprojResolveAssemblyReference.cache
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\obj\Debug\YandexSimpleTest.dll
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\obj\Debug\YandexSimpleTest.pdb
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\bin\Debug\WebDriver.dll
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\bin\Debug\WebDriver.Support.dll
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\bin\Debug\WebDriver.xml
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\bin\Debug\WebDriver.Support.xml
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\obj\Debug\YandexSimpleTest.Elements.PageElements.resources
+D:\My_GIT\YandexSimpleTest\YandexSimpleTest\obj\Debug\YandexSimpleTest.csproj.GenerateResource.Cache
